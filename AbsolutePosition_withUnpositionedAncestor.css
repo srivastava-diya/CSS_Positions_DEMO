@@ -1,0 +1,29 @@
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    z-index: -1;
+}
+
+.container{
+    margin-top: 200px;
+    margin-left: 650px;
+    height: 300px;
+    width: 200px;
+    border: 2px dotted black;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    height: 70px;
+    margin: 90px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
